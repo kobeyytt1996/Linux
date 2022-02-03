@@ -4,6 +4,7 @@
         "stat.h": "c",
         "sys_errlist.h": "c",
         "unistd.h": "c",
-        "pwd.h": "c"
+        "pwd.h": "c",
+        "stdlib.h": "c"
     }
 }
