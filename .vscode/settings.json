@@ -7,6 +7,7 @@
         "pwd.h": "c",
         "stdlib.h": "c",
         "string.h": "c",
-        "time.h": "c"
+        "time.h": "c",
+        "http_server": "c"
     }
 }
